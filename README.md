@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner who loves exploring ne
 - 🌱 I’m currently familiarizing myself with Python and R.
 - 👯 I’m looking to collaborate on data analysis and machine learning projects.
 - 💬 Ask me about anything related to Python, R, and data science.
-- 📫 How to reach me: [Email Me](mailto:your-email@example.com)
+- 📫 How to reach me: [Email Me](ckshy@snnu.edu.cn)
 
 ## 🛠️ Languages and Tools
 - **Languages:** Python, R
