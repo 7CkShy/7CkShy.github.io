@@ -1,0 +1,12 @@
+---
+title: How to build a website
+author: Kai Cai
+date: '2025-08-07'
+slug: how-to-build-a-website
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+![A cool man](images/WIN_20241120_00_15_34_Pro.jpg)
